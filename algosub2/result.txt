@@ -1,0 +1,46 @@
+Berlin
+Packages:
+No packages
+Vehicles:
+No vehicles
+-------------
+Hamburg
+Packages:
+No packages
+Vehicles:
+No vehicles
+-------------
+Cologne
+Packages:
+P7
+P6
+P3
+Vehicles:
+V3
+V4
+-------------
+Frankfurt
+Packages:
+P13
+P10
+Vehicles:
+V2
+-------------
+Dusseldorf
+Packages:
+P2
+P4
+P1
+P12
+P11
+Vehicles:
+V5
+-------------
+Stuttgart
+Packages:
+P5
+P8
+P9
+Vehicles:
+V1
+-------------
